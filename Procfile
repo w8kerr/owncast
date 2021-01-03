@@ -1,1 +1,1 @@
-web: ./bin/delucast
+web: ./bin/owncast
