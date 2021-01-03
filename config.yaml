@@ -1,5 +1,5 @@
 # See https://owncast.online/docs/configuration/ for more details
-ffmpegPath: ./ffmpeg-mac
+ffmpegPath: ./ffmpeg
 webServerPort: 8080
 rtmpServerPort: 1935
 
