@@ -15,7 +15,6 @@
 vendor/
 
 #owncast specific
-/config*.yaml
 /stats.json
 owncast
 webroot/thumbnail.jpg
@@ -32,3 +31,6 @@ chat.db
 
 !webroot/js/web_modules/**/dist
 !core/data
+tmp/delucast
+.DS_Store
+ffmpeg-mac
